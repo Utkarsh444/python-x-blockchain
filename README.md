@@ -18,3 +18,15 @@ Python developer exploring blockchain infrastructure, Linux systems and Rust.
 Building digital trust and transparent governance systems through technology.
 
 > Fighting corruption with code.
+## 🖥️ Terminal
+
+```bash
+$ whoami
+Utkarsh Singh
+
+$ focus
+Blockchain • Governance • Automation
+
+$ mission
+Build transparent digital systems
+```
